@@ -711,3 +711,5 @@ $var2="checking-git-functionality";
 $var3="Testing final";
 $var3="Testing Afternoon";
 
+$var4="Different branch";
+
